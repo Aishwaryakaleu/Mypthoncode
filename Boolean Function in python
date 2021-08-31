@@ -1,0 +1,8 @@
+isalnum()   // check all numbers //
+isalpha()   // check all alphabates // 
+istitle()   // check title //
+isupper()  // check if the alphabates are in upper case //
+islower()  // check if the alphabates are lower case //
+isspace()  // check if thereis any space //
+endswith('k') // check if the number starts with K //
+startswith('a') // check if the number starts with a //
